@@ -1,0 +1,3 @@
+manager=Kiran
+toMailID=kirans@newtglobalcorp.com
+ccMailID=timesheet@newtglobalcorp.com
